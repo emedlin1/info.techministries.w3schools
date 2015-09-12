@@ -17,7 +17,8 @@ Examples and exercises from w3schools.com
 
 ---
 
-##Version History<a id="versions"></a>
+##<a id="versions">Version History</a>
+
 ###Next Release
 * Add HTML Lesson 03 -- HTML Editors
 
@@ -47,7 +48,8 @@ Examples and exercises from w3schools.com
 
 ---
 
-##Planned for Future Releases<a id="planned"></a>
+##<a id="planned">Planned for Future Releases</a>
+
 * HTML Tutorial
   * HTML Basic
   * HTML Elements
@@ -117,5 +119,6 @@ Examples and exercises from w3schools.com
 
 ---
 
-##Fair use copyright<a id="fair"></a>
+##<a id="fair">Fair use copyright</a></h2>
+
 Per w3schools.com copyright using for teaching and research
