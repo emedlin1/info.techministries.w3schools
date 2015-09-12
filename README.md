@@ -7,8 +7,8 @@ Examples and exercises from w3schools.com
 
 
 ##Version History
-###Next Release
-* Add HTML Lesson 02 -- HTML Introduction
+###v01.02
+* Added HTML Lesson 02 -- HTML Introduction
 
 ---
 
