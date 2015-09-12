@@ -9,6 +9,7 @@ Examples and exercises from w3schools.com
 ##Version History
 ###v01.01
 * Added HTML Lesson 01 -- HTML HOME
+* Fix-01 Added .htaccess to enable directory indexing and ignore files/folders -- .??*, *~, *#, HEADER*, and README*
 
 ---
 

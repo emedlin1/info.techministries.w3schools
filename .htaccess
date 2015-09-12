@@ -1,0 +1,9 @@
+RewriteEngine on
+
+AuthType Basic
+AuthName "Login to see W3Schools Examples"
+require valid-user
+
+Options +Indexes
+IndexIgnore .??* *~ *# HEADER* README*
+AuthUserFile "/home2/emedlin1/.htpasswds/public_html/w3schools/passwd"
