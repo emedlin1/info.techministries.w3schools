@@ -19,7 +19,7 @@ Examples and exercises from w3schools.com
 
 ##<a id="versions">Version History</a>
 
-###Next Release
+###v01.03
 * Add HTML Lesson 03 -- HTML Editors
 
 ---
