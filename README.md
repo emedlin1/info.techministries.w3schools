@@ -7,7 +7,7 @@ Examples and exercises from w3schools.com
 
 
 ##Version History
-###v.01.02
+###v01.02
 * Added HTML Lesson 02 -- HTML Introduction
 
 ---
