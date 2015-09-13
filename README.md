@@ -9,18 +9,25 @@ Examples and exercises from w3schools.com
 ---
 
 ##Contents
-* [Version History](#versions)
-* [Planned for Future Releases](#planned)
-* [Fair use copyright](#fair)
+* [Version History](#version-history)
+* [Planned for Future Releases](#planned-for-future-releases)
+* [Fair use copyright](#fair-use-copyright)
 
 ---
 
 ---
 
-##<a id="versions">Version History</a>
+##Version History
+
+###Next Release
+* Add HTML Lesson 04 -- HTML Basic Examples
+* Improve Apache AutoIndex display options
+* Add default header, footer and style sheet
+
+---
 
 ###v01.03
-* Add HTML Lesson 03 -- HTML Editors
+* Added HTML Lesson 03 -- HTML Editors
 
 ---
 
@@ -48,7 +55,7 @@ Examples and exercises from w3schools.com
 
 ---
 
-##<a id="planned">Planned for Future Releases</a>
+##Planned for Future Releases
 
 * HTML Tutorial
   * HTML Basic
@@ -119,6 +126,6 @@ Examples and exercises from w3schools.com
 
 ---
 
-##<a id="fair">Fair use copyright</a></h2>
+##Fair Use Copyright
 
 Per w3schools.com copyright using for teaching and research
