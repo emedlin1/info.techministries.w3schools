@@ -6,4 +6,8 @@ require valid-user
 
 Options +Indexes
 IndexIgnore .??* *~ *# HEADER* README*
+IndexOptions +FancyIndexing +FoldersFirst +HTMLTable +ScanHTMLTitles +TrackModified +VersionSort NameWidth=*
+IndexStyleSheet "/.css/style.css"
+HeaderName /.include/HEADER.html
+ReadmeName /.include/FOOTER.html
 AuthUserFile "/home2/emedlin1/.htpasswds/public_html/w3schools/passwd"
