@@ -9,7 +9,7 @@ Examples and exercises from w3schools.com
 
 ##Version History
 
-###Next Release
+###v01.05
 - - -
 * Add HTML Lesson 05 -- HTML Elements
 * Rename folders to remove spaces, remove capitalization and reflect section.lesson (04_HTML Basic -> 01.04_html_basic)
