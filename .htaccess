@@ -1,5 +1,7 @@
 RewriteEngine on
 
+DirectoryIndex  /_h5ai/server/php/index.php
+
 AuthType Basic
 AuthName "Login to see W3Schools Examples"
 require valid-user
