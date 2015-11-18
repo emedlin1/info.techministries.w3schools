@@ -234,6 +234,7 @@ Options
             "txt-h": "c",
             "txt-hpp": "cpp",
             "txt-install": "fixed",
+            // "txt-html": "html",
             "txt-log": "fixed",
             "txt-java": "java",
             "txt-scala": "scala",
