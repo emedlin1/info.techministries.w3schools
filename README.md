@@ -9,6 +9,30 @@ Examples and exercises from w3schools.com
 
 ##Version History
 
+###v01.09
+- - -
+* Add HTML Lesson 09 -- HTML Styles
+* Update README.md and README.html
+
+
+###v01.08
+- - -
+* Add HTML Lesson 08 -- HTML Paragraphs
+
+###v01.07
+- - -
+* Add HTML Lesson 07 -- HTML Headings
+* Update h5ai config.json to not show html in preview text
+
+###v01.06.01
+- - -
+* Enhance directory index with h5ai
+* Fix "Fork me on GitHub" link
+
+###v01.06
+- - -
+* Add HTML Lesson 06 -- HTML Attributes
+
 ###v01.05
 - - -
 * Add HTML Lesson 05 -- HTML Elements
@@ -46,11 +70,6 @@ Examples and exercises from w3schools.com
 ##Planned for Future Releases
 
 * HTML Tutorial
-  * HTML Elements
-  * HTML Attributes
-  * HTML Headings
-  * HTML Paragraphs
-  * HTML Styles
   * HTML Formatting
   * HTML Quotations
   * HTML Computercode
